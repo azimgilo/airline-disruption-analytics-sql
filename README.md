@@ -126,7 +126,7 @@ DENSE_RANK() OVER (
 
 Created as part of an advanced SQL & Data Analytics portfolio project.
 
-* **LinkedIn:** [https://linkedin.com/in/mohd-azim-mohd-ali/]
+* **LinkedIn:** [Mohd Azim Bin Mohd Ali](https://linkedin.com/in/mohd-azim-mohd-ali/)
 * **GitHub:** [azimgilo](https://github.com/azimgilo)
 * **Email:** mohdazimali@gmail.com
 
