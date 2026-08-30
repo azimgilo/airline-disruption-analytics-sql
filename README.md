@@ -17,10 +17,26 @@ Using DuckDB's columnar ANSI SQL engine, this repository executes advanced opera
 
 ## 🛠️ Tech Stack & Tools
 
-* **SQL Engine:** DuckDB (In-Memory Columnar Database)
-* **Language:** Python 3.13
-* **Libraries:** `duckdb`, `pandas`, `requests`, `matplotlib`, `seaborn`
-* **Data Source:** Raw `nycflights13` via `Rdatasets` mirror
+| Category | Technology | Usage / Purpose |
+| :--- | :--- | :--- |
+| **SQL Engine** | DuckDB | In-memory columnar SQL database engine |
+| **Language** | Python 3.13 | Scripting, data orchestration, and visualization |
+| **Data Manipulation** | Pandas | Dataframe handling and result extraction |
+| **Visualization** | Matplotlib & Seaborn | Multi-panel operational executive dashboards |
+| **Data Source** | Rdatasets (`nycflights13`) | Raw transactional flight operations data |
+
+---
+
+## 📂 Repository Structure
+
+```
+airline-disruption-analytics-sql/
+│
+├── airline_disruption_analytics.ipynb   # Main end-to-end Jupyter Notebook (Steps 1–7)
+├── README.md                            # Comprehensive project documentation
+├── requirements.txt                     # Dependencies (duckdb, pandas, seaborn, etc.)
+└── LICENSE                              # MIT License
+```
 
 ---
 
@@ -92,17 +108,27 @@ DENSE_RANK() OVER (
 
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/your-username/airline-passenger-operations-sql.git](https://github.com/your-username/airline-passenger-operations-sql.git)
-   cd airline-passenger-operations-sql
+   git clone [https://github.com/your-username/airline-disruption-analytics-sql.git](https://github.com/your-username/airline-disruption-analytics-sql.git)
+   cd airline-disruption-analytics-sql
    ```
 2. Install dependencies:
    ```bash
-   pip install duckdb pandas requests matplotlib seaborn
+   pip install -r requirements.txt
    ```
 3. Open and run the Jupyter Notebook:
    ```bash
    jupyter notebook airline_disruption_analytics.ipynb
    ```
+
+---
+
+## 📬 Contact & Connect
+
+Created as part of an advanced SQL & Data Analytics portfolio project.
+
+* **LinkedIn:** [Your LinkedIn Profile Link]
+* **GitHub:** [@your-username](https://github.com/your-username)
+* **Email:** your.email@example.com
 
 ---
 
