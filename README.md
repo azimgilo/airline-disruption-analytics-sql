@@ -132,9 +132,9 @@ DENSE_RANK() OVER (
 
 Created as part of an advanced SQL & Data Analytics portfolio project.
 
-* **LinkedIn:** [Your LinkedIn Profile Link]
-* **GitHub:** [@your-username](https://github.com/your-username)
-* **Email:** your.email@example.com
+* **LinkedIn:** [Mohd Azim Bin Mohd Ali](https://www.linkedin.com/in/mohd-azim-mohd-ali/)
+* **GitHub:** [azimgilo](https://github.com/azimgilo)
+* **Email:** mohdazimali@gmail.com
 
 ---
 
