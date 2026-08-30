@@ -1,5 +1,11 @@
 # ✈️ Airline Passenger Operations & Disruption Analytics (DuckDB SQL)
 
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
+![DuckDB](https://img.shields.io/badge/DuckDB-0.9%2B-duckyellow?logo=duckdb)
+![Pandas](https://img.shields.io/badge/Pandas-2.0%2B-darkblue)
+![Seaborn](https://img.shields.io/badge/Seaborn-0.12%2B-teal)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 An end-to-end operational SQL case study simulating real-time airline passenger disruptions, connection risks, and frontline service desk surge analytics using **DuckDB**, **Python**, and **ANSI SQL Window Functions**.
 
 ---
@@ -126,9 +132,9 @@ DENSE_RANK() OVER (
 
 Created as part of an advanced SQL & Data Analytics portfolio project.
 
-* **LinkedIn:** [Mohd Azim Bin Mohd Ali](https://linkedin.com/in/mohd-azim-mohd-ali/)
-* **GitHub:** [azimgilo](https://github.com/azimgilo)
-* **Email:** mohdazimali@gmail.com
+* **LinkedIn:** [Your LinkedIn Profile Link]
+* **GitHub:** [@your-username](https://github.com/your-username)
+* **Email:** your.email@example.com
 
 ---
 
